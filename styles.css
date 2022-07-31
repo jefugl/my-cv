@@ -76,6 +76,36 @@ a:hover {
   padding: 20px 0 20px;
 }
 
+.my-picture {
+  float: left;
+  margin: 40px 30px 0 70px
+}
+
+.intro {
+  width: 48%;
+  margin: 30px auto 50px auto;
+  text-align: left;
+}
+
+.intro-h2 {
+  width: 70%;
+}
+
+.work-picture {
+  float: right;
+  margin: 30px 70px 0 30px;
+}
+
+.skills {
+  width: 50%;
+  margin: 30px auto 50px auto;
+  text-align: left;
+}
+
+.skills-h2 {
+  padding-left: 400px;
+}
+
 .copyright {
   width: 40%;
   margin: 20px auto 20px;
