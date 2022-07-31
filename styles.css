@@ -123,18 +123,6 @@ a:hover {
   top: 525px;
 }
 
-.left-center-cloud {
-  position: relative;
-  left: -550px;
-  top: 200px;
-}
-
-.right-center-cloud {
-  position: relative;
-  right: -300px;
-  top: 300px;
-}
-
 .dates {
   width: 50%;
   margin: auto;
