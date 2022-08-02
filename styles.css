@@ -44,66 +44,78 @@ a:hover {
   color: #EAF6F6
 }
 
+.mobil {
+  font-size: 2rem;
+}
+
 .top-container {
-  margin: 0;
+  margin: 0 auto;
   background-color: #A2B5BB;
   position: relative;
-  padding-top: 50px;
-  padding-bottom: 10px;
+  padding: 0 20rem;
+  max-width: 60rem;
 }
 
 .intro-container {
   background-color: #F7F5F2;
-  margin: 0;
+  margin: 0 auto;
   position: relative;
-  padding-top: 50px;
-  padding-bottom: 10px;
+  padding: 1rem 20rem;
+  max-width: 60rem;
 }
 
 .experience-container {
   background-color: #F2F2F2;
-  margin: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin: 0 auto;
+  padding: 1rem 20rem;
+  max-width: 60rem;
 }
 
 .contact-me {
-  margin: 10px 0 50px;
+  margin: 0 auto;
+  padding: 1rem 20rem;
+  max-width: 60rem;
 }
 
 .bottom-container {
+  margin: 0 auto;
   background-color: #66BFBF;
-  padding: 30px 0 20px;
+  padding: 0 20rem;
+  max-width: 60rem;
 }
 
 .my-picture {
   float: left;
-  margin: 40px 30px 0 70px
+  margin: 0 auto;
+  padding: 1rem 1rem;
 }
 
-.intro {
-  width: 48%;
-  margin: 30px auto 50px auto;
-  text-align: left;
+.work-picture {
+  float: right;
+  margin: 0 auto;
+  padding: 1rem 1rem;
 }
 
 .intro-h2 {
   width: 70%;
 }
 
-.work-picture {
-  float: right;
-  margin: 30px 70px 0 30px;
-}
-
-.skills {
-  width: 50%;
-  margin: 30px auto 50px auto;
+.intro {
+  width: 80%;
   text-align: left;
+  padding: 0 10rem 0 20rem;
+  max-width: 80rem;
 }
 
 .skills-h2 {
-  padding-left: 400px;
+  width: 70%;
+}
+
+.skills {
+  width: 80%;
+  text-align: left;
+  padding: 0 20rem 0 5rem;
+  max-width: 80rem;
 }
 
 .copyright {
@@ -113,26 +125,14 @@ a:hover {
 
 .top-cloud {
   position: relative;
-  right: -450px;
-  top: 20px;
+  right: -20rem;
+  top: 3rem;
 }
 
 .bottom-cloud {
   position: relative;
-  left: -450px;
-  top: 525px;
-}
-
-.dates {
-  width: 50%;
-  margin: auto;
-  float: left;
-  /*right: 225px;*/
-}
-
-.info {
-  margin: auto;
-  text-align: left;
+  left: -30rem;
+  top: 30rem;
 }
 
 .top-btn {
@@ -151,8 +151,8 @@ a:hover {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   position: relative;
-  left: -350px;
-  top: -40px;
+  left: -30rem;
+  top: 1rem;
 }
 
 .top-btn:hover {
