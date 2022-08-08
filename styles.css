@@ -195,3 +195,9 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .top-container, .intro-container, .experience-container, .bottom-container, .skills {
+    width: 100%;
+ } 
