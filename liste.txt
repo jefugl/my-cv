@@ -1,10 +1,10 @@
 
-            Nettverks Spesialist    Nordea Bank Norge ABP
-                2014 - 2021              Drift, monitorering og vedlikehold av Cisco nettverk (LAN, WAN, WIFI)
-                                         Installasjon og konfigurasjon av nettverksutstyr
-                                         Prosjektarbeid
-                                         Ansvarlig mot tjenesteleverandører
-                                         Ansvarlig for oppfølging mot leverandører
+            Nettverks Spesialist                Nordea Bank Norge ABP
+                2014 - 2021                     Drift, monitorering og vedlikehold av Cisco nettverk (LAN, WAN, WIFI)
+                                                Installasjon og konfigurasjon av nettverksutstyr
+                                                Prosjektarbeid
+                                                Ansvarlig mot tjenesteleverandører
+                                                Ansvarlig for oppfølging mot leverandører
 
             Nettverks Spesialist         Nordic Processor/IBM
                 2009 - 2014              Drift, monitorering og vedlikehold av Cisco nettverk (LAN, WAN, WIFI)
